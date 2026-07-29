@@ -1,0 +1,8 @@
+# Developed and tested in Google Colab
+
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+shap
